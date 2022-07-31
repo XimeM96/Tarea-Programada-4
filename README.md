@@ -7,3 +7,6 @@ Este programa fue creado utilizando el framework multiplataforma Qt, el cual fun
 # Instrucciones de compilación
 
 Tras descargar el repositorio, diríjase a Qt Creator y abra el archivo. Para correr el programa dele click en el botón "Run".
+
+
+![image](https://user-images.githubusercontent.com/108711029/182015645-7579367a-16d0-48bb-b2e2-62dea54774e8.png)
